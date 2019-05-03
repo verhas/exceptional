@@ -1,2 +1,2 @@
 # exceptional
-stub
+Was moved to https://github.com/javax0/exceptional
